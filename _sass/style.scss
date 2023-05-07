@@ -1,14 +1,14 @@
 // colors (edit these to change the colors of parts of the site's design)
-$body-bg-color: white;	// background color
-$header-title-color: blue;	// color of title of website
-$header-bg-color: white;	// color of nav bar
+$body-bg-color: rgb(0, 0, 0);	// background color
+$header-title-color: rgb(255, 255, 255);	// color of title of website
+$header-bg-color: rgb(0, 0, 0);	// color of nav bar
 $footer-color: silver;	// color of footer icons
 $post-title-color: gray;	// color of post titles
 $post-date-color: darkgray;	// color of post dates
 $page-title-color: gray; // color of page titles
 
 body{
-	background-color: white;	
+	background-color: rgb(0, 0, 0);	
 }
 
 .header .container {

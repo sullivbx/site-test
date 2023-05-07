@@ -38,3 +38,5 @@ plugins:
 
 include:
   - _images
+
+remote_theme: jirrian/jekyll-theme-image-grid@main
